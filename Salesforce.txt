@@ -1,0 +1,8 @@
+Product Name,Product Code,Product SKU,Active,Standard Pricebook Price
+Black Jacket Men,black_jacket_men,black_jacket_men,true,$44.99
+Delivery,retail_delivery,retail_delivery,true,$10.00
+Red Jacket Man,red_jacket_man,red_jacket_man,true,$29.49
+Black Shoes Unisex,black_shoes_unisex,black_shoes_unisextrue,$24.99
+White Sweatshirt Women,white_sweatshirt_women,white_sweatshirt_womentrue,$19.47
+Pink Sweatshirt Women,pink_sweatshirt_women,pink_sweatshirt_women,true,$14.99
+Unisex White Shoe,unisex_white_shoe,unisex_white_shoe,true,$19.99
